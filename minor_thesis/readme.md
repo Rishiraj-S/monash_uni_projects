@@ -1,3 +1,4 @@
-This project was my minor thesis during my Master of Data Science course.
-The topic of the project is - A Novel Machine Learning Framework for Identifying Predictive
-Biomarkers of FGFR Targeted Therapy in Breast Cancer
+#A Novel Machine Learning Framework for Identifying Predictive Biomarkers of FGFR Targeted Therapy in Breast Cancer
+
+## Description
+This project was my minor thesis during my Master of Data Science course. The project focuses on developing a machine learning approach to identify biomarkers for FGFR inhibitor therapy in breast cancer. It involves an extensive review of breast cancer, FGFR signaling, and current challenges in FGFR therapy, followed by a detailed methodology for data collection, preprocessing, and the use of machine learning algorithms for feature selection and model training. The research aims to predict the response of FGFR inhibitors using a novel machine learning pipeline, enhancing personalized oncology and treatment efficacy. The thesis also includes a comprehensive analysis of the selected features, discussing their biological relevance and potential implications for breast cancer treatment.
