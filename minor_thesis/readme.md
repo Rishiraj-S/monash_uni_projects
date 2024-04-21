@@ -13,4 +13,4 @@ This project was my minor thesis during my Master of Data Science course. The pr
 - *poster.pdf* is the poster for the research.
 
 ## Author
-This research was carrid out by Rishiraj Sinharay, under the supervision of A/Prof. Lan K. Nguyen and Dr. Sungyoung Shin at Monash University.
+This research was carried out by Rishiraj Sinharay, under the supervision of A/Prof. Lan K. Nguyen and Dr. Sungyoung Shin at Monash University.
