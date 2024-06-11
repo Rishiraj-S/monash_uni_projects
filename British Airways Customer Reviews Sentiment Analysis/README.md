@@ -1,1 +1,1 @@
-![Dashboard Image](filename_change.PNG)
+![Dashboard Image](sentiment_ranking.PNG)
