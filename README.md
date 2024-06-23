@@ -1,5 +1,5 @@
 # data_science_portfolio
-Hi! My name is Rishiraj Sinharay. I am a Master of Data Science graduate from Monash University and an ex-employee at DXC Technology. This repository contains different Data Analytics, Data Science, and Machine Learning projects which I worked on for academic and self learning puposes. Projects are in the form of iPython noteooks, .pbix files etc.
+Hi! My name is Rishiraj Sinharay. I am a Master of Data Science graduate from Monash University and an ex-employee at DXC Technology. This repository contains different Data Analytics, Data Science, and Machine Learning projects which I worked on for academic and self learning puposes. Projects are in the form of iPython notebooks, .pbix files etc.
 
 # Table of Contents
 ## 1. Python Projects
