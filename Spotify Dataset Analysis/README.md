@@ -11,7 +11,7 @@ This project is a deep dive into personal Spotify streaming data from July 2021 
 - Global Spotify Data: Includes data on the most streamed songs globally during the same period to facilitate comparison.
 - Analysis Scripts: R scripts used for data wrangling, analysis, and visualization (server.r and ui.r)
 - Visualizations: Outputs in the form of interactive plots and charts that allow detailed exploration of streaming habits.
-- 
+
 ![Dashboard Image](www/your_streams.PNG)
 ![Dashboard Image](www/listening.PNG)
 
