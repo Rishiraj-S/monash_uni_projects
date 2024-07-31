@@ -12,5 +12,7 @@ Global Spotify Data: Includes data on the most streamed songs globally during th
 Analysis Scripts: R scripts used for data wrangling, analysis, and visualization (server.r and ui.r)
 Visualizations: Outputs in the form of interactive plots and charts that allow detailed exploration of streaming habits.
 
+![Dashboard Image](Capture.PNG)
+
 ## Author
 This project was carried out by Rishiraj Sinharay, under the supervision of tutor Nina Sophia Dsouza as a part of the Data Exploration and Visualization unit at Monash University.
