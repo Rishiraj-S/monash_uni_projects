@@ -13,4 +13,4 @@ Analysis Scripts: R scripts used for data wrangling, analysis, and visualization
 Visualizations: Outputs in the form of interactive plots and charts that allow detailed exploration of streaming habits.
 
 ## Author
-Rishiraj SinharayBefore Running the Shiny Application:
+This project was carried out by Rishiraj Sinharay, under the supervision of tutor Nina Sophia Dsouza as a part of the Data Exploration and Visualization unit at Monash University.
