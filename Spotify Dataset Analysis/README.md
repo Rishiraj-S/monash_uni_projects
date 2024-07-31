@@ -1,4 +1,4 @@
-# Analysis of My Personal Spotify Dataset
+# Spotify Streaming Data Analysis
 
 ## Description
 This project is a deep dive into personal Spotify streaming data from July 2021 to July 2022, inspired by Spotify's marketing campaign, Spotify Wrapped. The project focuses on visualizing streaming habits, comparing them with global trends, and answering specific questions about top artists and tracks over the year. This project was carried out on R Shiny.
