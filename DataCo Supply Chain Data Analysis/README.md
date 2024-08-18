@@ -24,5 +24,6 @@ The primary objective of this project is to provide actionable insights that cou
 Rishiraj Sinharay, a Data Scientist specializing in data analysis, statistical modeling, and data visualization. Currently engaged in projects that involve extensive use of data science and machine learning techniques to solve real-world problems.
 
 ## Reference
-The dataset and the inspiration for this analysis were provided by Mendeley Data: [DataCo Global Supply Chain Dataset](https://data.mendeley.com/datasets/8gx2fvg2k6/5)
+- The dataset and the inspiration for this analysis were provided by Mendeley Data: [DataCo Global Supply Chain Dataset](https://data.mendeley.com/datasets/8gx2fvg2k6/5)
+- Aman Kharwal - [The Clever Programmer](https://thecleverprogrammer.com/)
 
