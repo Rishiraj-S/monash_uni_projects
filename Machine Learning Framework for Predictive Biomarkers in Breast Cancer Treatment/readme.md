@@ -9,7 +9,7 @@ This project was my minor thesis during my Master of Data Science course. The pr
 - *bootstrap_final.csv* is the output csv file from the above python notebook.
 - *final_gene_analysis.ipynb* is the python notebook in which the data generated in the notebook *eda_feature_selection_ml.ipynb* is analysed for observing results.
 - *final_gene.csv* is the csv file with the final genes.
-- *thesis.pdf* is the Thesis explaining the entire research.
+- *thesis.pdf* is the Thesis explaining the entire research. (**For better readability, please download the file**)
 - *poster.pdf* is the poster for the research.
 
 ## Author
